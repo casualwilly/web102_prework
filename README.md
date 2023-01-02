@@ -29,7 +29,7 @@ Here's a walkthrough of implemented features:
 <img src='https://user-images.githubusercontent.com/32225842/210283615-3bd74a59-4914-4086-b3aa-1baadb61c23f.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiceCap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
